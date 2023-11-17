@@ -3,8 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-juliomissart.mdq@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliomissart.mdq@gmail.com)](mailto:juliomissart.mdq@gmail.com)
 
 ## Hi 👋, 
-I'm Julio Missart, a passionate software developer about learning and technology. Showcasing over 2 years of hands-on experience, my journey spans across diverse industries, including mobile, web, and game development, reflecting my passion for innovative solutions.
+I'm Julio Missart, a passionate software developer about continuous learning and technology. Showcasing over 2 years of hands-on experience, my journey spans across diverse industries, including mobile, web, and game development, reflecting my passion for innovative solutions.
 
+Currently, I am deeply engaged in the exciting realm of game development, where my enthusiasm for crafting cutting-edge solutions shines.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
