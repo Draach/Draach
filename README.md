@@ -1,5 +1,5 @@
 # Julio Missart
-[![Twitter Badge](https://img.shields.io/badge/-@Draachx-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Draachx)](https://twitter.com/Draachx) [![Linkedin Badge](https://img.shields.io/badge/-Julio_Missart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-missart/)](https://www.linkedin.com/in/julio-missart/)
+[![Linkedin Badge](https://img.shields.io/badge/-Julio_Missart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-missart/)](https://www.linkedin.com/in/julio-missart/)
 [![Gmail Badge](https://img.shields.io/badge/-juliomissart.mdq@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliomissart.mdq@gmail.com)](mailto:juliomissart.mdq@gmail.com)
 
 ## Hi 👋, 
