@@ -18,7 +18,3 @@ I'm a passionate software developer with over 3 years of hands-on experience, co
 
 - [LinkedIn](https://www.linkedin.com/in/julio-missart/)
 - [Email](mailto:juliomissart.mdq@gmail.com)
-
----
-
-<sub>“The only way to do great work is to love what you do.” – Steve Jobs</sub>
